@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  homework.day10.work_3.starter.config.CustomSpringBootConfiguration
